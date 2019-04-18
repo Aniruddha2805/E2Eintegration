@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="5803" started-at="2019-04-17T09:12:28Z" finished-at="2019-04-17T09:12:34Z">
+  <suite name="Suite" duration-ms="11904" started-at="2019-04-18T12:33:38Z" finished-at="2019-04-18T12:33:50Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="5803" started-at="2019-04-17T09:12:28Z" finished-at="2019-04-17T09:12:34Z">
+    <test name="Test" duration-ms="11904" started-at="2019-04-18T12:33:38Z" finished-at="2019-04-18T12:33:50Z">
+      <class name="seleniumTest.Test3">
+        <test-method status="PASS" signature="test_002()[pri:0, instance:seleniumTest.Test3@47f37ef1]" name="test_002" duration-ms="4996" started-at="2019-04-18T12:33:45Z" finished-at="2019-04-18T12:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_002 -->
+      </class> <!-- seleniumTest.Test3 -->
       <class name="seleniumTest.Test1">
-        <test-method status="PASS" signature="test_002()[pri:0, instance:seleniumTest.Test1@ea4a92b]" name="test_002" duration-ms="5765" started-at="2019-04-17T09:12:28Z" finished-at="2019-04-17T09:12:34Z">
+        <test-method status="PASS" signature="test_002()[pri:0, instance:seleniumTest.Test1@3c5a99da]" name="test_002" duration-ms="6841" started-at="2019-04-18T12:33:38Z" finished-at="2019-04-18T12:33:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_002 -->

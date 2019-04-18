@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class Test1 {
+public class Test3 {
 
 	@Test
 	public void test_002() {
